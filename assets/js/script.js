@@ -1180,30 +1180,18 @@ function _0x509e() {
               required: !![],
               minlength: 0x2,
             },
-            email: 'required',
-            phone: _0x41fed8(0xd6),
-            adress: _0x41fed8(0xd6),
-            guest: _0x41fed8(0xd6),
-            date: _0x41fed8(0xd6),
             what: _0x41fed8(0xd6),
-            service: _0x41fed8(0xd6),
           },
           messages: {
             name: 'Please\x20enter\x20your\x20name',
-            email: 'Please\x20enter\x20your\x20email\x20address',
-            phone: _0x41fed8(0x179),
-            adress: _0x41fed8(0xcb),
-            guest: _0x41fed8(0x15e),
-            date: _0x41fed8(0x100),
             what: _0x41fed8(0xdf),
-            service: _0x41fed8(0x12e),
           },
           submitHandler: function (_0x167d31) {
             var _0x5018a5 = _0x41fed8;
             return (
               _0x6826d1[_0x5018a5(0xea)]({
                 type: _0x5018a5(0x14f),
-                url: 'https://script.google.com/macros/s/AKfycbyyU_jq5i77N0nOuOiZ-pZirw2uyU5Zl7wdLC1C-U07R0IqhLgPCK3G17qn--Ftfxpquw/exec',
+                url: 'https://script.google.com/macros/s/AKfycbwwvT-l2X6cI3Sv8Ns-i6dfBUc-tXzBxoxXOmadCzk-MD8RK7yjsUQx2dqzWjsmO_YZVg/exec',
                 data: _0x6826d1(_0x167d31)['serialize'](),
                 success: function () {
                   var _0x41c94e = _0x5018a5;
