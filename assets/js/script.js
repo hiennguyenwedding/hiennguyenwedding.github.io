@@ -1203,7 +1203,7 @@ function _0x509e() {
             return (
               _0x6826d1[_0x5018a5(0xea)]({
                 type: _0x5018a5(0x14f),
-                url: 'https://script.google.com/macros/s/AKfycbyN3e2Yc1f0gqAG2ycPNlcsoryvPGp2HcsqxZXet0LSvWJ-91Q-QtKIfcFgH9HM7XryZA/exec',
+                url: 'https://script.google.com/macros/s/AKfycbwt0k6rw740tUH2yaP3U5TEg3IJ_q8rYOsz0mLxwFIPTWNxxxMW3J7t9J9qb0M6LdHqyw/exec',
                 data: _0x6826d1(_0x167d31)['serialize'](),
                 success: function () {
                   var _0x41c94e = _0x5018a5;
