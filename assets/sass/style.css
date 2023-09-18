@@ -3178,6 +3178,7 @@ a.ui-button:active,
     width: 100%;
   }
   .wpo-site-header .mobail-menu button {
+    /* display: none; */
     background-color: #657150;
     width: 40px;
     height: 35px;
